@@ -138,6 +138,12 @@ logo-link:focus {
     letter-spacing: 0.02em;
 }
 
+.active {
+    border-bottom: 4px solid var(--link-color);
+    border-radius: 2px;
+    padding-bottom: 24px;
+}
+
 .menu-link {
     color: var(--title-color);
 }
